@@ -12,7 +12,7 @@ itsdangerous==0.24
 Jinja2==2.10
 leancloud==2.1.7
 MarkupSafe==1.0
-numpy==1.14.1
+numpy==1.22.0
 PyMySQL==0.8.0
 pyparsing==2.2.0
 pypinyin==0.30.0
